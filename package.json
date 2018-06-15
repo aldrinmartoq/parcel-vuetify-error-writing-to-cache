@@ -9,11 +9,11 @@
   "dependencies": {
     "vue": "^2.5.16",
     "vue-hot-reload-api": "^2.3.0",
-    "vuetify": "^1.0.18"
+    "vuetify": "^1.0.19"
   },
   "devDependencies": {
-    "@vue/component-compiler-utils": "^1.2.1",
-    "parcel-bundler": "^1.8.1",
+    "@vue/component-compiler-utils": "^2.0.0",
+    "parcel-bundler": "^1.9.0",
     "pug": "^2.0.3",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
